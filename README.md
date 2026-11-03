@@ -1,4 +1,4 @@
-# Global-Tourism-Travel-Trends-Analytics
+# Global Tourism and Travel Trend: An Exploratory Data Analysis using Python
 This project explores patterns in a tourism-trip dataset using Python, Pandas, Matplotlib, and Seaborn. It examines travel purposes, destinations, trip spending, traveler groups, monthly patterns, ratings, and recorded carbon footprint.
 
 ## Dataset
